@@ -1,0 +1,47 @@
+{
+    "project": "Credit Risk & Customer Profitability Analytics",
+    "script": "00_clean_raw_data.py",
+    "run_timestamp": "2026-06-22 14:45:34",
+    "source_file": "/Users/aadityamandal/Downloads/credit_risk_customer_profitability_analytics/data/raw/default_of_credit_card_clients.xls",
+    "clean_output_file": "/Users/aadityamandal/Downloads/credit_risk_customer_profitability_analytics/data/processed/credit_card_default_clean.csv",
+    "analysis_ready_output_file": "/Users/aadityamandal/Downloads/credit_risk_customer_profitability_analytics/data/processed/credit_card_default_analysis_ready.csv",
+    "row_count": 30000,
+    "column_count": 25,
+    "duplicate_customer_ids": 0,
+    "missing_values": {
+        "customer_id": 0,
+        "credit_limit": 0,
+        "sex": 0,
+        "education": 0,
+        "marriage": 0,
+        "age": 0,
+        "repay_status_sep": 0,
+        "repay_status_aug": 0,
+        "repay_status_jul": 0,
+        "repay_status_jun": 0,
+        "repay_status_may": 0,
+        "repay_status_apr": 0,
+        "bill_amt_sep": 0,
+        "bill_amt_aug": 0,
+        "bill_amt_jul": 0,
+        "bill_amt_jun": 0,
+        "bill_amt_may": 0,
+        "bill_amt_apr": 0,
+        "pay_amt_sep": 0,
+        "pay_amt_aug": 0,
+        "pay_amt_jul": 0,
+        "pay_amt_jun": 0,
+        "pay_amt_may": 0,
+        "pay_amt_apr": 0,
+        "default_payment_next_month": 0
+    },
+    "target_counts": {
+        "0": 23364,
+        "1": 6636
+    },
+    "target_percentages": {
+        "0": 0.7788,
+        "1": 0.2212
+    },
+    "validation_warnings": []
+}

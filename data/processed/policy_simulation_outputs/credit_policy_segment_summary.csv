@@ -1,0 +1,204 @@
+policy_name,policy_decision,credit_limit_segment,utilization_segment,repayment_behavior_category,customer_count,defaulted_customers,observed_default_rate,current_balance_exposure,avg_utilization,avg_months_with_payment_delay,avg_months_with_serious_delay,revenue_proxy_6mo,realized_loss_proxy,risk_adjusted_profit_proxy
+01_Current Baseline,Approve,Mid limit,High utilization,Repeated serious delay,733,411.0,0.5607,59306991.0,0.8969,4.12,3.89,5106780.96,19523864.5,-14417083.54
+01_Current Baseline,Approve,Mid limit,Medium utilization,Repeated serious delay,974,577.0,0.5924,44746314.0,0.5017,4.19,3.93,4086599.8,16484786.6,-12398186.8
+01_Current Baseline,Approve,High limit,High utilization,Partial recent repayment,798,98.0,0.1228,200542640.0,0.9045,0.0,0.0,14899581.8,13089501.5,1810080.3
+01_Current Baseline,Approve,Mid limit,High utilization,Partial recent repayment,2542,315.0,0.1239,212419660.0,0.9205,0.0,0.0,15296100.43,11785093.8,3511006.63
+01_Current Baseline,Approve,High limit,High utilization,Repeated serious delay,147,93.0,0.6327,32718620.0,0.877,4.17,3.93,2845134.54,11494699.3,-8649564.76
+01_Current Baseline,Approve,Mid limit,Over limit / very high utilization,Repeated serious delay,282,166.0,0.5887,26380668.0,1.0982,3.41,3.17,1981599.64,7879643.5,-5898043.86
+01_Current Baseline,Approve,High limit,Medium utilization,Repeated serious delay,173,99.0,0.5723,23411718.0,0.5047,4.07,3.84,2026730.18,7665750.9,-5639020.72
+01_Current Baseline,Approve,Mid limit,High utilization,Recent serious delay,500,176.0,0.352,39878597.0,0.921,1.16,1.0,3028654.32,6742863.5,-3714209.18
+01_Current Baseline,Approve,Mid limit,Over limit / very high utilization,Partial recent repayment,834,141.0,0.1691,84396573.0,1.1193,0.0,0.0,5699756.86,5891200.6,-191443.73
+01_Current Baseline,Approve,High limit,Over limit / very high utilization,Partial recent repayment,212,39.0,0.184,66478288.0,1.1028,0.0,0.0,4745620.61,5758654.4,-1013033.79
+01_Current Baseline,Approve,High limit,Medium utilization,Partial recent repayment,1399,72.0,0.0515,195321098.0,0.4894,0.0,0.0,14944495.18,5615336.6,9329158.59
+01_Current Baseline,Approve,High limit,High utilization,Recent serious delay,102,39.0,0.3824,24851180.0,0.8915,1.22,1.0,1978919.51,5213564.6,-3234645.1
+01_Current Baseline,Approve,Mid limit,Medium utilization,Partial recent repayment,2158,175.0,0.0811,112977281.0,0.5026,0.0,0.0,8715240.95,4047920.6,4667320.35
+01_Current Baseline,Approve,Mid limit,Medium utilization,Recent serious delay,512,155.0,0.3027,24079028.0,0.4953,1.17,1.0,2002386.33,4041258.4,-2038872.07
+01_Current Baseline,Approve,Low limit,High utilization,Repeated serious delay,547,304.0,0.5558,11744440.0,0.8744,4.06,3.69,1064545.95,3916614.6,-2852068.65
+01_Current Baseline,Approve,Mid limit,Over limit / very high utilization,Recent serious delay,233,88.0,0.3777,21842253.0,1.0863,1.42,1.0,1554660.94,3795999.3,-2241338.36
+01_Current Baseline,Approve,High limit,Medium utilization,Recent serious delay,171,51.0,0.2982,21738527.0,0.475,1.15,1.0,1784695.02,3674039.9,-1889344.88
+01_Current Baseline,Approve,Low limit,Medium utilization,Repeated serious delay,584,354.0,0.6062,7378048.0,0.5258,4.02,3.71,745430.4,3058079.1,-2312648.7
+01_Current Baseline,Approve,Mid limit,Low utilization,Repeated serious delay,620,319.0,0.5145,5314611.0,0.0886,3.48,3.26,565720.47,2061327.4,-1495606.93
+01_Current Baseline,Approve,Low limit,High utilization,Partial recent repayment,803,145.0,0.1806,16848587.0,0.8932,0.0,0.0,1352234.13,1564506.1,-212271.97
+01_Current Baseline,Approve,High limit,Low utilization,Strong recent repayment,3023,299.0,0.0989,26922647.0,0.0302,0.0,0.0,3482947.78,1350444.7,2132503.09
+01_Current Baseline,Approve,Low limit,High utilization,Recent serious delay,321,112.0,0.3489,6706164.0,0.8863,1.22,1.0,572241.42,1315609.9,-743368.48
+01_Current Baseline,Approve,High limit,Low utilization,Partial recent repayment,1308,68.0,0.052,44825134.0,0.1143,0.0,0.0,3927052.2,1289521.0,2637531.2
+01_Current Baseline,Approve,High limit,Low utilization,Repeated serious delay,323,148.0,0.4582,4350225.0,0.0489,3.23,3.05,435024.54,1185198.5,-750173.96
+01_Current Baseline,Approve,Low limit,Over limit / very high utilization,Repeated serious delay,147,72.0,0.4898,4114912.0,1.1212,3.8,3.59,322167.81,1080975.4,-758807.59
+01_Current Baseline,Approve,High limit,Low utilization,Recent serious delay,462,104.0,0.2251,5916091.0,0.0448,1.13,1.0,693048.76,882491.6,-189442.83
+01_Current Baseline,Approve,Mid limit,Low utilization,Recent serious delay,553,169.0,0.3056,4412593.0,0.0805,1.12,1.0,487941.64,881109.8,-393168.16
+01_Current Baseline,Approve,Very high limit,Medium utilization,Partial recent repayment,135,5.0,0.037,33755852.0,0.4718,0.0,0.0,2582558.82,817149.7,1765409.12
+01_Current Baseline,Approve,Low limit,Medium utilization,Recent serious delay,243,100.0,0.4115,2872732.0,0.5322,1.18,1.0,281873.9,767655.3,-485781.4
+01_Current Baseline,Approve,Mid limit,Low utilization,Strong recent repayment,1938,280.0,0.1445,8934676.0,0.0393,0.0,0.0,1399531.83,718427.5,681104.33
+01_Current Baseline,Approve,Mid limit,Low utilization,Partial recent repayment,925,94.0,0.1016,13994631.0,0.135,0.0,0.0,1247644.12,602793.0,644851.13
+01_Current Baseline,Approve,Low limit,Medium utilization,Partial recent repayment,425,76.0,0.1788,5154794.0,0.5404,0.0,0.0,461153.59,571471.7,-110318.1
+01_Current Baseline,Approve,Low limit,Over limit / very high utilization,Partial recent repayment,153,30.0,0.1961,4784499.0,1.361,0.0,0.0,324028.73,476696.7,-152667.98
+01_Current Baseline,Approve,Low limit,Low utilization,Repeated serious delay,197,133.0,0.6751,483903.0,0.1066,4.31,4.21,60145.62,259832.0,-199686.38
+01_Current Baseline,Approve,Very high limit,Low utilization,Strong recent repayment,349,23.0,0.0659,5783685.0,0.0322,0.0,0.0,834738.57,237177.1,597561.47
+01_Current Baseline,Approve,Mid limit,Negative or zero balance,Minor payment delay,673,161.0,0.2392,0.0,0.0,1.0,0.0,176901.0,201637.9,-24736.9
+01_Current Baseline,Approve,High limit,Low utilization,No recent payment or low activity,489,64.0,0.1309,3027877.0,0.0228,0.0,0.0,226545.06,133798.2,92746.86
+01_Current Baseline,Approve,High limit,Negative or zero balance,Minor payment delay,711,199.0,0.2799,0.0,0.0,1.0,0.0,227442.3,117640.9,109801.4
+01_Current Baseline,Approve,Mid limit,Medium utilization,Strong recent repayment,128,12.0,0.0938,4962759.0,0.4121,0.0,0.0,314870.91,114032.3,200838.61
+01_Current Baseline,Approve,Low limit,Low utilization,Strong recent repayment,245,46.0,0.1878,427802.0,0.0747,0.0,0.0,78643.32,89658.3,-11014.98
+01_Current Baseline,Approve,Mid limit,Low utilization,No recent payment or low activity,409,68.0,0.1663,1563061.0,0.0345,0.0,0.0,96210.09,88970.0,7240.09
+01_Current Baseline,Approve,Low limit,Low utilization,Recent serious delay,102,42.0,0.4118,219167.0,0.0879,1.06,1.0,33436.16,73380.6,-39944.45
+01_Current Baseline,Approve,Very high limit,Low utilization,Partial recent repayment,170,3.0,0.0176,10228581.0,0.1129,0.0,0.0,932917.36,56304.6,876612.77
+01_Current Baseline,Approve,High limit,Negative or zero balance,No recent payment or low activity,388,115.0,0.2964,0.0,0.0,0.0,0.0,90631.85,49676.0,40955.84
+01_Current Baseline,Approve,Mid limit,Negative or zero balance,No recent payment or low activity,189,32.0,0.1693,0.0,0.0,0.0,0.0,24698.9,11789.3,12909.6
+01_Current Baseline,Approve,High limit,Negative or zero balance,Strong recent repayment,140,9.0,0.0643,0.0,0.0,0.0,0.0,130320.68,10346.3,119974.37
+01_Current Baseline,Approve,Low limit,Negative or zero balance,Minor payment delay,112,35.0,0.3125,0.0,0.0,1.0,0.0,15318.15,10156.6,5161.55
+02_Conservative Risk Cut,Approve,High limit,Low utilization,Strong recent repayment,3023,299.0,0.0989,26922647.0,0.0302,0.0,0.0,3482947.78,1350444.7,2132503.09
+02_Conservative Risk Cut,Approve,Mid limit,Low utilization,Strong recent repayment,1938,280.0,0.1445,8934676.0,0.0393,0.0,0.0,1399531.83,718427.5,681104.33
+02_Conservative Risk Cut,Approve,High limit,Low utilization,Partial recent repayment,657,35.0,0.0533,16368412.0,0.0844,0.0,0.0,1558444.9,601844.3,956600.61
+02_Conservative Risk Cut,Approve,Mid limit,Medium utilization,Partial recent repayment,381,23.0,0.0604,15087759.0,0.4428,0.0,0.0,1112536.52,386236.2,726300.31
+02_Conservative Risk Cut,Approve,Low limit,Medium utilization,Partial recent repayment,316,57.0,0.1804,3314699.0,0.5145,0.0,0.0,302335.53,374923.7,-72588.17
+02_Conservative Risk Cut,Approve,Mid limit,Low utilization,Partial recent repayment,653,76.0,0.1164,7672943.0,0.1203,0.0,0.0,711803.07,368881.5,342921.57
+02_Conservative Risk Cut,Approve,Very high limit,Low utilization,Strong recent repayment,349,23.0,0.0659,5783685.0,0.0322,0.0,0.0,834738.57,237177.1,597561.47
+02_Conservative Risk Cut,Approve,High limit,Medium utilization,Partial recent repayment,140,3.0,0.0214,16393809.0,0.424,0.0,0.0,1237512.42,168814.6,1068697.82
+02_Conservative Risk Cut,Approve,Mid limit,Medium utilization,Strong recent repayment,128,12.0,0.0938,4962759.0,0.4121,0.0,0.0,314870.91,114032.3,200838.61
+02_Conservative Risk Cut,Approve,Low limit,Low utilization,Strong recent repayment,245,46.0,0.1878,427802.0,0.0747,0.0,0.0,78643.32,89658.3,-11014.98
+02_Conservative Risk Cut,Approve,High limit,Negative or zero balance,Strong recent repayment,140,9.0,0.0643,0.0,0.0,0.0,0.0,130320.68,10346.3,119974.37
+02_Conservative Risk Cut,Decline,Mid limit,High utilization,Repeated serious delay,733,411.0,0.5607,59306991.0,0.8969,4.12,3.89,5106780.96,19523864.5,-14417083.54
+02_Conservative Risk Cut,Decline,Mid limit,Medium utilization,Repeated serious delay,974,577.0,0.5924,44746314.0,0.5017,4.19,3.93,4086599.8,16484786.6,-12398186.8
+02_Conservative Risk Cut,Decline,High limit,High utilization,Repeated serious delay,147,93.0,0.6327,32718620.0,0.877,4.17,3.93,2845134.54,11494699.3,-8649564.76
+02_Conservative Risk Cut,Decline,High limit,High utilization,Partial recent repayment,479,67.0,0.1399,125350608.0,0.96,0.0,0.0,9262859.49,9172476.3,90383.19
+02_Conservative Risk Cut,Decline,Mid limit,High utilization,Partial recent repayment,1765,240.0,0.136,150929425.0,0.9591,0.0,0.0,10776941.8,8986523.2,1790418.61
+02_Conservative Risk Cut,Decline,Mid limit,Over limit / very high utilization,Repeated serious delay,282,166.0,0.5887,26380668.0,1.0982,3.41,3.17,1981599.64,7879643.5,-5898043.86
+02_Conservative Risk Cut,Decline,High limit,Medium utilization,Repeated serious delay,173,99.0,0.5723,23411718.0,0.5047,4.07,3.84,2026730.18,7665750.9,-5639020.72
+02_Conservative Risk Cut,Decline,Mid limit,High utilization,Recent serious delay,500,176.0,0.352,39878597.0,0.921,1.16,1.0,3028654.32,6742863.5,-3714209.18
+02_Conservative Risk Cut,Decline,Mid limit,Over limit / very high utilization,Partial recent repayment,834,141.0,0.1691,84396573.0,1.1193,0.0,0.0,5699756.86,5891200.6,-191443.73
+02_Conservative Risk Cut,Decline,High limit,Over limit / very high utilization,Partial recent repayment,212,39.0,0.184,66478288.0,1.1028,0.0,0.0,4745620.61,5758654.4,-1013033.79
+02_Conservative Risk Cut,Decline,High limit,High utilization,Recent serious delay,102,39.0,0.3824,24851180.0,0.8915,1.22,1.0,1978919.51,5213564.6,-3234645.1
+02_Conservative Risk Cut,Decline,Mid limit,Medium utilization,Recent serious delay,512,155.0,0.3027,24079028.0,0.4953,1.17,1.0,2002386.33,4041258.4,-2038872.07
+02_Conservative Risk Cut,Decline,Low limit,High utilization,Repeated serious delay,547,304.0,0.5558,11744440.0,0.8744,4.06,3.69,1064545.95,3916614.6,-2852068.65
+02_Conservative Risk Cut,Decline,Mid limit,Over limit / very high utilization,Recent serious delay,233,88.0,0.3777,21842253.0,1.0863,1.42,1.0,1554660.94,3795999.3,-2241338.36
+02_Conservative Risk Cut,Decline,High limit,Medium utilization,Recent serious delay,171,51.0,0.2982,21738527.0,0.475,1.15,1.0,1784695.02,3674039.9,-1889344.88
+02_Conservative Risk Cut,Decline,Low limit,Medium utilization,Repeated serious delay,584,354.0,0.6062,7378048.0,0.5258,4.02,3.71,745430.4,3058079.1,-2312648.7
+02_Conservative Risk Cut,Decline,Mid limit,Low utilization,Repeated serious delay,620,319.0,0.5145,5314611.0,0.0886,3.48,3.26,565720.47,2061327.4,-1495606.93
+02_Conservative Risk Cut,Decline,Low limit,High utilization,Recent serious delay,321,112.0,0.3489,6706164.0,0.8863,1.22,1.0,572241.42,1315609.9,-743368.48
+02_Conservative Risk Cut,Decline,High limit,Low utilization,Repeated serious delay,323,148.0,0.4582,4350225.0,0.0489,3.23,3.05,435024.54,1185198.5,-750173.96
+02_Conservative Risk Cut,Decline,Low limit,Over limit / very high utilization,Repeated serious delay,147,72.0,0.4898,4114912.0,1.1212,3.8,3.59,322167.81,1080975.4,-758807.59
+02_Conservative Risk Cut,Decline,High limit,Low utilization,Recent serious delay,462,104.0,0.2251,5916091.0,0.0448,1.13,1.0,693048.76,882491.6,-189442.83
+02_Conservative Risk Cut,Decline,Mid limit,Low utilization,Recent serious delay,553,169.0,0.3056,4412593.0,0.0805,1.12,1.0,487941.64,881109.8,-393168.16
+02_Conservative Risk Cut,Decline,Low limit,Medium utilization,Recent serious delay,243,100.0,0.4115,2872732.0,0.5322,1.18,1.0,281873.9,767655.3,-485781.4
+02_Conservative Risk Cut,Decline,Low limit,High utilization,Partial recent repayment,403,66.0,0.1638,9435466.0,0.951,0.0,0.0,735102.1,729288.3,5813.8
+02_Conservative Risk Cut,Decline,Low limit,Over limit / very high utilization,Partial recent repayment,153,30.0,0.1961,4784499.0,1.361,0.0,0.0,324028.73,476696.7,-152667.98
+02_Conservative Risk Cut,Decline,Low limit,Low utilization,Repeated serious delay,197,133.0,0.6751,483903.0,0.1066,4.31,4.21,60145.62,259832.0,-199686.38
+02_Conservative Risk Cut,Decline,Low limit,Low utilization,Recent serious delay,102,42.0,0.4118,219167.0,0.0879,1.06,1.0,33436.16,73380.6,-39944.45
+02_Conservative Risk Cut,Manual Review,High limit,Medium utilization,Partial recent repayment,1259,69.0,0.0548,178927289.0,0.4967,0.0,0.0,13706982.76,5446522.0,8260460.77
+02_Conservative Risk Cut,Manual Review,High limit,High utilization,Partial recent repayment,319,31.0,0.0972,75192032.0,0.8211,0.0,0.0,5636722.3,3917025.2,1719697.11
+02_Conservative Risk Cut,Manual Review,Mid limit,Medium utilization,Partial recent repayment,1777,152.0,0.0855,97889522.0,0.5154,0.0,0.0,7602704.43,3661684.4,3941020.03
+02_Conservative Risk Cut,Manual Review,Mid limit,High utilization,Partial recent repayment,777,75.0,0.0965,61490235.0,0.833,0.0,0.0,4519158.63,2798570.6,1720588.03
+02_Conservative Risk Cut,Manual Review,Low limit,High utilization,Partial recent repayment,400,79.0,0.1975,7413121.0,0.8349,0.0,0.0,617132.03,835217.8,-218085.77
+02_Conservative Risk Cut,Manual Review,Very high limit,Medium utilization,Partial recent repayment,112,5.0,0.0446,28706778.0,0.4803,0.0,0.0,2134081.35,817149.7,1316931.65
+02_Conservative Risk Cut,Manual Review,High limit,Low utilization,Partial recent repayment,651,33.0,0.0507,28456722.0,0.1445,0.0,0.0,2368607.29,687676.7,1680930.6
+02_Conservative Risk Cut,Manual Review,Mid limit,Low utilization,Partial recent repayment,272,18.0,0.0662,6321688.0,0.1701,0.0,0.0,535841.05,233911.5,301929.56
+02_Conservative Risk Cut,Manual Review,Mid limit,Negative or zero balance,Minor payment delay,673,161.0,0.2392,0.0,0.0,1.0,0.0,176901.0,201637.9,-24736.9
+02_Conservative Risk Cut,Manual Review,Low limit,Medium utilization,Partial recent repayment,109,19.0,0.1743,1840095.0,0.6154,0.0,0.0,158818.07,196548.0,-37729.94
+02_Conservative Risk Cut,Manual Review,High limit,Low utilization,No recent payment or low activity,489,64.0,0.1309,3027877.0,0.0228,0.0,0.0,226545.06,133798.2,92746.86
+02_Conservative Risk Cut,Manual Review,High limit,Negative or zero balance,Minor payment delay,711,199.0,0.2799,0.0,0.0,1.0,0.0,227442.3,117640.9,109801.4
+02_Conservative Risk Cut,Manual Review,Mid limit,Low utilization,No recent payment or low activity,409,68.0,0.1663,1563061.0,0.0345,0.0,0.0,96210.09,88970.0,7240.09
+02_Conservative Risk Cut,Manual Review,High limit,Negative or zero balance,No recent payment or low activity,388,115.0,0.2964,0.0,0.0,0.0,0.0,90631.85,49676.0,40955.84
+02_Conservative Risk Cut,Manual Review,Mid limit,Negative or zero balance,No recent payment or low activity,189,32.0,0.1693,0.0,0.0,0.0,0.0,24698.9,11789.3,12909.6
+02_Conservative Risk Cut,Manual Review,Low limit,Negative or zero balance,Minor payment delay,112,35.0,0.3125,0.0,0.0,1.0,0.0,15318.15,10156.6,5161.55
+03_Balanced Risk Policy,Approve,High limit,Low utilization,Strong recent repayment,3023,299.0,0.0989,26922647.0,0.0302,0.0,0.0,3482947.78,1350444.7,2132503.09
+03_Balanced Risk Policy,Approve,Mid limit,Low utilization,Strong recent repayment,1938,280.0,0.1445,8934676.0,0.0393,0.0,0.0,1399531.83,718427.5,681104.33
+03_Balanced Risk Policy,Approve,High limit,Low utilization,Partial recent repayment,657,35.0,0.0533,16368412.0,0.0844,0.0,0.0,1558444.9,601844.3,956600.61
+03_Balanced Risk Policy,Approve,Mid limit,Medium utilization,Partial recent repayment,381,23.0,0.0604,15087759.0,0.4428,0.0,0.0,1112536.52,386236.2,726300.31
+03_Balanced Risk Policy,Approve,Low limit,Medium utilization,Partial recent repayment,316,57.0,0.1804,3314699.0,0.5145,0.0,0.0,302335.53,374923.7,-72588.17
+03_Balanced Risk Policy,Approve,Mid limit,Low utilization,Partial recent repayment,653,76.0,0.1164,7672943.0,0.1203,0.0,0.0,711803.07,368881.5,342921.57
+03_Balanced Risk Policy,Approve,Very high limit,Low utilization,Strong recent repayment,349,23.0,0.0659,5783685.0,0.0322,0.0,0.0,834738.57,237177.1,597561.47
+03_Balanced Risk Policy,Approve,Low limit,High utilization,Partial recent repayment,152,25.0,0.1645,2269784.0,0.8281,0.0,0.0,176115.45,194892.4,-18776.95
+03_Balanced Risk Policy,Approve,Mid limit,Negative or zero balance,Minor payment delay,196,34.0,0.1735,0.0,0.0,1.0,0.0,128671.0,169710.0,-41038.99
+03_Balanced Risk Policy,Approve,High limit,Medium utilization,Partial recent repayment,140,3.0,0.0214,16393809.0,0.424,0.0,0.0,1237512.42,168814.6,1068697.82
+03_Balanced Risk Policy,Approve,Mid limit,Medium utilization,Strong recent repayment,128,12.0,0.0938,4962759.0,0.4121,0.0,0.0,314870.91,114032.3,200838.61
+03_Balanced Risk Policy,Approve,Low limit,Low utilization,Strong recent repayment,245,46.0,0.1878,427802.0,0.0747,0.0,0.0,78643.32,89658.3,-11014.98
+03_Balanced Risk Policy,Approve,High limit,Negative or zero balance,Minor payment delay,199,41.0,0.206,0.0,0.0,1.0,0.0,138606.9,64367.2,74239.7
+03_Balanced Risk Policy,Approve,High limit,Negative or zero balance,Strong recent repayment,140,9.0,0.0643,0.0,0.0,0.0,0.0,130320.68,10346.3,119974.37
+03_Balanced Risk Policy,Decline,Mid limit,High utilization,Repeated serious delay,733,411.0,0.5607,59306991.0,0.8969,4.12,3.89,5106780.96,19523864.5,-14417083.54
+03_Balanced Risk Policy,Decline,Mid limit,Medium utilization,Repeated serious delay,974,577.0,0.5924,44746314.0,0.5017,4.19,3.93,4086599.8,16484786.6,-12398186.8
+03_Balanced Risk Policy,Decline,High limit,High utilization,Repeated serious delay,147,93.0,0.6327,32718620.0,0.877,4.17,3.93,2845134.54,11494699.3,-8649564.76
+03_Balanced Risk Policy,Decline,Mid limit,Over limit / very high utilization,Repeated serious delay,282,166.0,0.5887,26380668.0,1.0982,3.41,3.17,1981599.64,7879643.5,-5898043.86
+03_Balanced Risk Policy,Decline,High limit,Medium utilization,Repeated serious delay,173,99.0,0.5723,23411718.0,0.5047,4.07,3.84,2026730.18,7665750.9,-5639020.72
+03_Balanced Risk Policy,Decline,Mid limit,Over limit / very high utilization,Partial recent repayment,834,141.0,0.1691,84396573.0,1.1193,0.0,0.0,5699756.86,5891200.6,-191443.73
+03_Balanced Risk Policy,Decline,High limit,Over limit / very high utilization,Partial recent repayment,212,39.0,0.184,66478288.0,1.1028,0.0,0.0,4745620.61,5758654.4,-1013033.79
+03_Balanced Risk Policy,Decline,Low limit,High utilization,Repeated serious delay,547,304.0,0.5558,11744440.0,0.8744,4.06,3.69,1064545.95,3916614.6,-2852068.65
+03_Balanced Risk Policy,Decline,Mid limit,Over limit / very high utilization,Recent serious delay,233,88.0,0.3777,21842253.0,1.0863,1.42,1.0,1554660.94,3795999.3,-2241338.36
+03_Balanced Risk Policy,Decline,Low limit,Medium utilization,Repeated serious delay,584,354.0,0.6062,7378048.0,0.5258,4.02,3.71,745430.4,3058079.1,-2312648.7
+03_Balanced Risk Policy,Decline,Mid limit,Low utilization,Repeated serious delay,620,319.0,0.5145,5314611.0,0.0886,3.48,3.26,565720.47,2061327.4,-1495606.93
+03_Balanced Risk Policy,Decline,High limit,Low utilization,Repeated serious delay,323,148.0,0.4582,4350225.0,0.0489,3.23,3.05,435024.54,1185198.5,-750173.96
+03_Balanced Risk Policy,Decline,Low limit,Over limit / very high utilization,Repeated serious delay,147,72.0,0.4898,4114912.0,1.1212,3.8,3.59,322167.81,1080975.4,-758807.59
+03_Balanced Risk Policy,Decline,Low limit,Over limit / very high utilization,Partial recent repayment,153,30.0,0.1961,4784499.0,1.361,0.0,0.0,324028.73,476696.7,-152667.98
+03_Balanced Risk Policy,Decline,Low limit,Low utilization,Repeated serious delay,197,133.0,0.6751,483903.0,0.1066,4.31,4.21,60145.62,259832.0,-199686.38
+03_Balanced Risk Policy,Manual Review,High limit,High utilization,Partial recent repayment,783,97.0,0.1239,197076051.0,0.906,0.0,0.0,14676150.71,12993856.5,1682294.21
+03_Balanced Risk Policy,Manual Review,Mid limit,High utilization,Partial recent repayment,2478,310.0,0.1251,208516218.0,0.9228,0.0,0.0,15041453.14,11669451.3,3372001.84
+03_Balanced Risk Policy,Manual Review,Mid limit,High utilization,Recent serious delay,498,175.0,0.3514,39718597.0,0.9206,1.16,1.0,3015506.1,6682720.1,-3667214.0
+03_Balanced Risk Policy,Manual Review,High limit,Medium utilization,Partial recent repayment,1259,69.0,0.0548,178927289.0,0.4967,0.0,0.0,13706982.76,5446522.0,8260460.77
+03_Balanced Risk Policy,Manual Review,High limit,High utilization,Recent serious delay,102,39.0,0.3824,24851180.0,0.8915,1.22,1.0,1978919.51,5213564.6,-3234645.1
+03_Balanced Risk Policy,Manual Review,Mid limit,Medium utilization,Recent serious delay,512,155.0,0.3027,24079028.0,0.4953,1.17,1.0,2002386.33,4041258.4,-2038872.07
+03_Balanced Risk Policy,Manual Review,High limit,Medium utilization,Recent serious delay,171,51.0,0.2982,21738527.0,0.475,1.15,1.0,1784695.02,3674039.9,-1889344.88
+03_Balanced Risk Policy,Manual Review,Mid limit,Medium utilization,Partial recent repayment,1777,152.0,0.0855,97889522.0,0.5154,0.0,0.0,7602704.43,3661684.4,3941020.03
+03_Balanced Risk Policy,Manual Review,Low limit,High utilization,Partial recent repayment,651,120.0,0.1843,14578803.0,0.9084,0.0,0.0,1176118.68,1369613.7,-193495.02
+03_Balanced Risk Policy,Manual Review,Low limit,High utilization,Recent serious delay,321,112.0,0.3489,6706164.0,0.8863,1.22,1.0,572241.42,1315609.9,-743368.48
+03_Balanced Risk Policy,Manual Review,High limit,Low utilization,Recent serious delay,462,104.0,0.2251,5916091.0,0.0448,1.13,1.0,693048.76,882491.6,-189442.83
+03_Balanced Risk Policy,Manual Review,Mid limit,Low utilization,Recent serious delay,553,169.0,0.3056,4412593.0,0.0805,1.12,1.0,487941.64,881109.8,-393168.16
+03_Balanced Risk Policy,Manual Review,Very high limit,Medium utilization,Partial recent repayment,112,5.0,0.0446,28706778.0,0.4803,0.0,0.0,2134081.35,817149.7,1316931.65
+03_Balanced Risk Policy,Manual Review,Low limit,Medium utilization,Recent serious delay,243,100.0,0.4115,2872732.0,0.5322,1.18,1.0,281873.9,767655.3,-485781.4
+03_Balanced Risk Policy,Manual Review,High limit,Low utilization,Partial recent repayment,651,33.0,0.0507,28456722.0,0.1445,0.0,0.0,2368607.29,687676.7,1680930.6
+03_Balanced Risk Policy,Manual Review,Mid limit,Low utilization,Partial recent repayment,272,18.0,0.0662,6321688.0,0.1701,0.0,0.0,535841.05,233911.5,301929.56
+03_Balanced Risk Policy,Manual Review,Low limit,Medium utilization,Partial recent repayment,109,19.0,0.1743,1840095.0,0.6154,0.0,0.0,158818.07,196548.0,-37729.94
+03_Balanced Risk Policy,Manual Review,High limit,Low utilization,No recent payment or low activity,489,64.0,0.1309,3027877.0,0.0228,0.0,0.0,226545.06,133798.2,92746.86
+03_Balanced Risk Policy,Manual Review,Mid limit,Low utilization,No recent payment or low activity,409,68.0,0.1663,1563061.0,0.0345,0.0,0.0,96210.09,88970.0,7240.09
+03_Balanced Risk Policy,Manual Review,Low limit,Low utilization,Recent serious delay,102,42.0,0.4118,219167.0,0.0879,1.06,1.0,33436.16,73380.6,-39944.45
+03_Balanced Risk Policy,Manual Review,High limit,Negative or zero balance,Minor payment delay,512,158.0,0.3086,0.0,0.0,1.0,0.0,88835.4,53273.7,35561.7
+03_Balanced Risk Policy,Manual Review,High limit,Negative or zero balance,No recent payment or low activity,388,115.0,0.2964,0.0,0.0,0.0,0.0,90631.85,49676.0,40955.84
+03_Balanced Risk Policy,Manual Review,Mid limit,Negative or zero balance,Minor payment delay,477,127.0,0.2662,0.0,0.0,1.0,0.0,48230.0,31927.9,16302.1
+03_Balanced Risk Policy,Manual Review,Mid limit,Negative or zero balance,No recent payment or low activity,189,32.0,0.1693,0.0,0.0,0.0,0.0,24698.9,11789.3,12909.6
+04_Growth-Oriented Policy,Approve,High limit,High utilization,Partial recent repayment,798,98.0,0.1228,200542640.0,0.9045,0.0,0.0,14899581.8,13089501.5,1810080.3
+04_Growth-Oriented Policy,Approve,Mid limit,High utilization,Partial recent repayment,2541,314.0,0.1236,212369660.0,0.9205,0.0,0.0,15294257.65,11772808.6,3521449.05
+04_Growth-Oriented Policy,Approve,High limit,Medium utilization,Partial recent repayment,1399,72.0,0.0515,195321098.0,0.4894,0.0,0.0,14944495.18,5615336.6,9329158.59
+04_Growth-Oriented Policy,Approve,Mid limit,Medium utilization,Partial recent repayment,2158,175.0,0.0811,112977281.0,0.5026,0.0,0.0,8715240.95,4047920.6,4667320.35
+04_Growth-Oriented Policy,Approve,Low limit,High utilization,Partial recent repayment,803,145.0,0.1806,16848587.0,0.8932,0.0,0.0,1352234.13,1564506.1,-212271.97
+04_Growth-Oriented Policy,Approve,High limit,Low utilization,Strong recent repayment,3023,299.0,0.0989,26922647.0,0.0302,0.0,0.0,3482947.78,1350444.7,2132503.09
+04_Growth-Oriented Policy,Approve,High limit,Low utilization,Partial recent repayment,1308,68.0,0.052,44825134.0,0.1143,0.0,0.0,3927052.2,1289521.0,2637531.2
+04_Growth-Oriented Policy,Approve,Very high limit,Medium utilization,Partial recent repayment,135,5.0,0.037,33755852.0,0.4718,0.0,0.0,2582558.82,817149.7,1765409.12
+04_Growth-Oriented Policy,Approve,Mid limit,Low utilization,Strong recent repayment,1938,280.0,0.1445,8934676.0,0.0393,0.0,0.0,1399531.83,718427.5,681104.33
+04_Growth-Oriented Policy,Approve,Mid limit,Low utilization,Partial recent repayment,925,94.0,0.1016,13994631.0,0.135,0.0,0.0,1247644.12,602793.0,644851.13
+04_Growth-Oriented Policy,Approve,Low limit,Medium utilization,Partial recent repayment,425,76.0,0.1788,5154794.0,0.5404,0.0,0.0,461153.59,571471.7,-110318.1
+04_Growth-Oriented Policy,Approve,Very high limit,Low utilization,Strong recent repayment,349,23.0,0.0659,5783685.0,0.0322,0.0,0.0,834738.57,237177.1,597561.47
+04_Growth-Oriented Policy,Approve,Mid limit,Negative or zero balance,Minor payment delay,673,161.0,0.2392,0.0,0.0,1.0,0.0,176901.0,201637.9,-24736.9
+04_Growth-Oriented Policy,Approve,High limit,Low utilization,No recent payment or low activity,489,64.0,0.1309,3027877.0,0.0228,0.0,0.0,226545.06,133798.2,92746.86
+04_Growth-Oriented Policy,Approve,High limit,Negative or zero balance,Minor payment delay,711,199.0,0.2799,0.0,0.0,1.0,0.0,227442.3,117640.9,109801.4
+04_Growth-Oriented Policy,Approve,Mid limit,Medium utilization,Strong recent repayment,128,12.0,0.0938,4962759.0,0.4121,0.0,0.0,314870.91,114032.3,200838.61
+04_Growth-Oriented Policy,Approve,Low limit,Low utilization,Strong recent repayment,245,46.0,0.1878,427802.0,0.0747,0.0,0.0,78643.32,89658.3,-11014.98
+04_Growth-Oriented Policy,Approve,Mid limit,Low utilization,No recent payment or low activity,409,68.0,0.1663,1563061.0,0.0345,0.0,0.0,96210.09,88970.0,7240.09
+04_Growth-Oriented Policy,Approve,Very high limit,Low utilization,Partial recent repayment,170,3.0,0.0176,10228581.0,0.1129,0.0,0.0,932917.36,56304.6,876612.77
+04_Growth-Oriented Policy,Approve,High limit,Negative or zero balance,No recent payment or low activity,388,115.0,0.2964,0.0,0.0,0.0,0.0,90631.85,49676.0,40955.84
+04_Growth-Oriented Policy,Approve,Mid limit,Negative or zero balance,No recent payment or low activity,189,32.0,0.1693,0.0,0.0,0.0,0.0,24698.9,11789.3,12909.6
+04_Growth-Oriented Policy,Approve,High limit,Negative or zero balance,Strong recent repayment,140,9.0,0.0643,0.0,0.0,0.0,0.0,130320.68,10346.3,119974.37
+04_Growth-Oriented Policy,Approve,Low limit,Negative or zero balance,Minor payment delay,112,35.0,0.3125,0.0,0.0,1.0,0.0,15318.15,10156.6,5161.55
+04_Growth-Oriented Policy,Decline,Mid limit,High utilization,Repeated serious delay,259,154.0,0.5946,22396784.0,0.9509,4.64,4.42,1936817.19,7653630.0,-5716812.81
+04_Growth-Oriented Policy,Decline,Mid limit,Over limit / very high utilization,Repeated serious delay,163,100.0,0.6135,15474654.0,1.1121,4.23,4.02,1213164.0,5097943.5,-3884779.5
+04_Growth-Oriented Policy,Decline,Low limit,High utilization,Repeated serious delay,140,81.0,0.5786,3377746.0,0.946,4.66,4.24,297514.26,1157035.7,-859521.44
+04_Growth-Oriented Policy,Manual Review,Mid limit,Medium utilization,Repeated serious delay,974,577.0,0.5924,44746314.0,0.5017,4.19,3.93,4086599.8,16484786.6,-12398186.8
+04_Growth-Oriented Policy,Manual Review,Mid limit,High utilization,Repeated serious delay,474,257.0,0.5422,36910207.0,0.8674,3.83,3.6,3169963.77,11870234.5,-8700270.73
+04_Growth-Oriented Policy,Manual Review,High limit,High utilization,Repeated serious delay,105,66.0,0.6286,22956840.0,0.8503,3.95,3.72,2013314.39,8100551.6,-6087237.22
+04_Growth-Oriented Policy,Manual Review,High limit,Medium utilization,Repeated serious delay,173,99.0,0.5723,23411718.0,0.5047,4.07,3.84,2026730.18,7665750.9,-5639020.72
+04_Growth-Oriented Policy,Manual Review,Mid limit,High utilization,Recent serious delay,500,176.0,0.352,39878597.0,0.921,1.16,1.0,3028654.32,6742863.5,-3714209.18
+04_Growth-Oriented Policy,Manual Review,Mid limit,Over limit / very high utilization,Partial recent repayment,834,141.0,0.1691,84396573.0,1.1193,0.0,0.0,5699756.86,5891200.6,-191443.73
+04_Growth-Oriented Policy,Manual Review,High limit,Over limit / very high utilization,Partial recent repayment,212,39.0,0.184,66478288.0,1.1028,0.0,0.0,4745620.61,5758654.4,-1013033.79
+04_Growth-Oriented Policy,Manual Review,High limit,High utilization,Recent serious delay,102,39.0,0.3824,24851180.0,0.8915,1.22,1.0,1978919.51,5213564.6,-3234645.1
+04_Growth-Oriented Policy,Manual Review,Mid limit,Medium utilization,Recent serious delay,512,155.0,0.3027,24079028.0,0.4953,1.17,1.0,2002386.33,4041258.4,-2038872.07
+04_Growth-Oriented Policy,Manual Review,Mid limit,Over limit / very high utilization,Recent serious delay,233,88.0,0.3777,21842253.0,1.0863,1.42,1.0,1554660.94,3795999.3,-2241338.36
+04_Growth-Oriented Policy,Manual Review,High limit,Medium utilization,Recent serious delay,171,51.0,0.2982,21738527.0,0.475,1.15,1.0,1784695.02,3674039.9,-1889344.88
+04_Growth-Oriented Policy,Manual Review,Low limit,Medium utilization,Repeated serious delay,584,354.0,0.6062,7378048.0,0.5258,4.02,3.71,745430.4,3058079.1,-2312648.7
+04_Growth-Oriented Policy,Manual Review,Mid limit,Over limit / very high utilization,Repeated serious delay,119,66.0,0.5546,10906014.0,1.0793,2.29,2.0,768435.65,2781700.0,-2013264.36
+04_Growth-Oriented Policy,Manual Review,Low limit,High utilization,Repeated serious delay,407,223.0,0.5479,8366694.0,0.8498,3.85,3.51,767031.69,2759578.9,-1992547.21
+04_Growth-Oriented Policy,Manual Review,Mid limit,Low utilization,Repeated serious delay,620,319.0,0.5145,5314611.0,0.0886,3.48,3.26,565720.47,2061327.4,-1495606.93
+04_Growth-Oriented Policy,Manual Review,Low limit,High utilization,Recent serious delay,321,112.0,0.3489,6706164.0,0.8863,1.22,1.0,572241.42,1315609.9,-743368.48
+04_Growth-Oriented Policy,Manual Review,High limit,Low utilization,Repeated serious delay,323,148.0,0.4582,4350225.0,0.0489,3.23,3.05,435024.54,1185198.5,-750173.96
+04_Growth-Oriented Policy,Manual Review,High limit,Low utilization,Recent serious delay,462,104.0,0.2251,5916091.0,0.0448,1.13,1.0,693048.76,882491.6,-189442.83
+04_Growth-Oriented Policy,Manual Review,Mid limit,Low utilization,Recent serious delay,553,169.0,0.3056,4412593.0,0.0805,1.12,1.0,487941.64,881109.8,-393168.16
+04_Growth-Oriented Policy,Manual Review,Low limit,Medium utilization,Recent serious delay,243,100.0,0.4115,2872732.0,0.5322,1.18,1.0,281873.9,767655.3,-485781.4
+04_Growth-Oriented Policy,Manual Review,Low limit,Over limit / very high utilization,Partial recent repayment,153,30.0,0.1961,4784499.0,1.361,0.0,0.0,324028.73,476696.7,-152667.98
+04_Growth-Oriented Policy,Manual Review,Low limit,Low utilization,Repeated serious delay,197,133.0,0.6751,483903.0,0.1066,4.31,4.21,60145.62,259832.0,-199686.38
+04_Growth-Oriented Policy,Manual Review,Low limit,Low utilization,Recent serious delay,102,42.0,0.4118,219167.0,0.0879,1.06,1.0,33436.16,73380.6,-39944.45

@@ -1,0 +1,48 @@
+credit_limit_segment,utilization_segment,repayment_behavior_category,customer_count,defaulted_customers,observed_default_rate,portfolio_default_rate,default_rate_lift,total_current_balance_exposure,exposure_share,loss_share,avg_balance_exposure,avg_utilization,avg_payment_amount,avg_months_with_payment_delay,avg_months_with_serious_delay,revenue_proxy,realized_loss_proxy,risk_adjusted_profit_proxy,segment_priority_score,portfolio_strategy_flag
+Mid limit,High utilization,Repeated serious delay,733,411.0,0.5607,0.2212,2.53,59306991.0,0.0386,0.1246,77410.66,0.8969,3285.89,4.12,3.89,5106780.96,19523864.5,-14417083.54,9.78,Immediate management review
+Mid limit,Medium utilization,Repeated serious delay,974,577.0,0.5924,0.2212,2.68,44746314.0,0.0291,0.1052,46618.75,0.5017,2506.04,4.19,3.93,4086599.8,16484786.6,-12398186.79,7.79,Immediate management review
+Mid limit,High utilization,Partial recent repayment,2542,315.0,0.1239,0.2212,0.56,212419660.0,0.1382,0.0752,66859.43,0.9205,3721.32,0.0,0.0,15296100.43,11785093.8,3511006.63,7.74,Growth candidate
+High limit,High utilization,Partial recent repayment,798,98.0,0.1228,0.2212,0.56,200542640.0,0.1304,0.0835,207457.28,0.9045,11523.46,0.0,0.0,14899581.8,13089501.5,1810080.3,7.24,Growth candidate
+High limit,High utilization,Repeated serious delay,147,93.0,0.6327,0.2212,2.86,32718620.0,0.0213,0.0734,215051.74,0.877,9175.21,4.17,3.93,2845134.54,11494699.3,-8649564.76,6.09,Immediate management review
+Mid limit,Over limit / very high utilization,Repeated serious delay,282,166.0,0.5887,0.2212,2.66,26380668.0,0.0172,0.0503,78077.21,1.0982,3704.92,3.41,3.17,1981599.64,7879643.5,-5898043.86,4.57,Restrict or reduce exposure
+Mid limit,Over limit / very high utilization,Partial recent repayment,834,141.0,0.1691,0.2212,0.76,84396573.0,0.0549,0.0376,75936.01,1.1193,4972.48,0.0,0.0,5699756.86,5891200.6,-191443.74,4.2,Restrict or reduce exposure
+Mid limit,High utilization,Recent serious delay,500,176.0,0.352,0.2212,1.59,39878597.0,0.0259,0.043,67303.43,0.921,3448.84,1.16,1.0,3028654.32,6742863.5,-3714209.18,4.13,Monitor and reprice
+High limit,Medium utilization,Repeated serious delay,173,99.0,0.5723,0.2212,2.59,23411718.0,0.0152,0.0489,130168.93,0.5047,5987.38,4.07,3.84,2026730.18,7665750.9,-5639020.73,3.94,Restrict or reduce exposure
+High limit,Over limit / very high utilization,Partial recent repayment,212,39.0,0.184,0.2212,0.83,66478288.0,0.0432,0.0367,248722.25,1.1028,14814.92,0.0,0.0,4745620.61,5758654.4,-1013033.79,3.6,Restrict or reduce exposure
+High limit,Medium utilization,Partial recent repayment,1399,72.0,0.0515,0.2212,0.23,195321098.0,0.127,0.0358,118691.88,0.4894,8606.46,0.0,0.0,14944495.18,5615336.6,9329158.58,2.96,Growth candidate
+High limit,High utilization,Recent serious delay,102,39.0,0.3824,0.2212,1.73,24851180.0,0.0162,0.0333,215568.57,0.8915,10716.26,1.22,1.0,1978919.51,5213564.6,-3234645.1,2.79,Restrict or reduce exposure
+Mid limit,Medium utilization,Partial recent repayment,2158,175.0,0.0811,0.2212,0.37,112977281.0,0.0735,0.0258,44873.04,0.5026,3768.13,0.0,0.0,8715240.95,4047920.6,4667320.35,2.69,Growth candidate
+Mid limit,Over limit / very high utilization,Recent serious delay,233,88.0,0.3777,0.2212,1.71,21842253.0,0.0142,0.0242,74137.38,1.0863,4229.84,1.42,1.0,1554660.94,3795999.3,-2241338.36,2.43,Restrict or reduce exposure
+Mid limit,Medium utilization,Recent serious delay,512,155.0,0.3027,0.2212,1.37,24079028.0,0.0157,0.0258,43454.56,0.4953,3238.71,1.17,1.0,2002386.33,4041258.4,-2038872.07,2.14,Restrict or reduce exposure
+Low limit,High utilization,Repeated serious delay,547,304.0,0.5558,0.2212,2.51,11744440.0,0.0076,0.025,21623.93,0.8744,1246.47,4.06,3.69,1064545.95,3916614.6,-2852068.65,1.92,Restrict or reduce exposure
+High limit,Medium utilization,Recent serious delay,171,51.0,0.2982,0.2212,1.35,21738527.0,0.0141,0.0234,115964.59,0.475,7373.06,1.15,1.0,1784695.02,3674039.9,-1889344.88,1.91,Restrict or reduce exposure
+Low limit,Medium utilization,Repeated serious delay,584,354.0,0.6062,0.2212,2.74,7378048.0,0.0048,0.0195,14182.47,0.5258,1189.07,4.02,3.71,745430.4,3058079.1,-2312648.7,1.32,Restrict or reduce exposure
+Low limit,High utilization,Partial recent repayment,803,145.0,0.1806,0.2212,0.82,16848587.0,0.011,0.01,18710.86,0.8932,1641.47,0.0,0.0,1352234.13,1564506.1,-212271.97,0.89,Restrict or reduce exposure
+Mid limit,Low utilization,Repeated serious delay,620,319.0,0.5145,0.2212,2.33,5314611.0,0.0035,0.0132,10138.36,0.0886,1733.01,3.48,3.26,565720.47,2061327.4,-1495606.93,0.8,Restrict or reduce exposure
+High limit,Low utilization,Strong recent repayment,3023,299.0,0.0989,0.2212,0.45,26922647.0,0.0175,0.0086,12801.66,0.0302,9309.6,0.0,0.0,3482947.78,1350444.7,2132503.08,0.78,Growth candidate
+Low limit,High utilization,Recent serious delay,321,112.0,0.3489,0.2212,1.58,6706164.0,0.0044,0.0084,19807.6,0.8863,1405.5,1.22,1.0,572241.42,1315609.9,-743368.48,0.69,Restrict or reduce exposure
+High limit,Low utilization,Partial recent repayment,1308,68.0,0.052,0.2212,0.24,44825134.0,0.0292,0.0082,33359.26,0.1143,6591.84,0.0,0.0,3927052.2,1289521.0,2637531.2,0.69,Growth candidate
+High limit,Low utilization,Repeated serious delay,323,148.0,0.4582,0.2212,2.07,4350225.0,0.0028,0.0076,14964.72,0.0489,3368.6,3.23,3.05,435024.54,1185198.5,-750173.96,0.59,Restrict or reduce exposure
+Low limit,Over limit / very high utilization,Repeated serious delay,147,72.0,0.4898,0.2212,2.21,4114912.0,0.0027,0.0069,24351.31,1.1212,1399.31,3.8,3.59,322167.81,1080975.4,-758807.59,0.59,Restrict or reduce exposure
+Mid limit,Low utilization,Partial recent repayment,925,94.0,0.1016,0.2212,0.46,13994631.0,0.0091,0.0038,14986.72,0.135,3097.27,0.0,0.0,1247644.12,602793.0,644851.12,0.42,Growth candidate
+Mid limit,Low utilization,Recent serious delay,553,169.0,0.3056,0.2212,1.38,4412593.0,0.0029,0.0056,9803.93,0.0805,2955.83,1.12,1.0,487941.64,881109.8,-393168.16,0.4,Restrict or reduce exposure
+High limit,Low utilization,Recent serious delay,462,104.0,0.2251,0.2212,1.02,5916091.0,0.0038,0.0056,16667.84,0.0448,5816.41,1.13,1.0,693048.76,882491.6,-189442.84,0.39,Restrict or reduce exposure
+Mid limit,Low utilization,Strong recent repayment,1938,280.0,0.1445,0.2212,0.65,8934676.0,0.0058,0.0046,8023.92,0.0393,5249.37,0.0,0.0,1399531.83,718427.5,681104.33,0.38,Growth candidate
+Very high limit,Medium utilization,Partial recent repayment,135,5.0,0.037,0.2212,0.17,33755852.0,0.022,0.0052,212556.28,0.4718,17861.5,0.0,0.0,2582558.82,817149.7,1765409.12,0.37,Growth candidate
+Low limit,Medium utilization,Recent serious delay,243,100.0,0.4115,0.2212,1.86,2872732.0,0.0019,0.0049,12888.61,0.5322,1393.93,1.18,1.0,281873.9,767655.3,-485781.4,0.35,Restrict or reduce exposure
+Low limit,Over limit / very high utilization,Partial recent repayment,153,30.0,0.1961,0.2212,0.89,4784499.0,0.0031,0.003,23531.5,1.361,1907.28,0.0,0.0,324028.73,476696.7,-152667.97,0.28,Restrict or reduce exposure
+Low limit,Medium utilization,Partial recent repayment,425,76.0,0.1788,0.2212,0.81,5154794.0,0.0034,0.0036,12056.3,0.5404,1583.8,0.0,0.0,461153.59,571471.7,-110318.11,0.27,Restrict or reduce exposure
+Mid limit,Medium utilization,Strong recent repayment,128,12.0,0.0938,0.2212,0.42,4962759.0,0.0032,0.0007,27332.54,0.4121,11387.81,0.0,0.0,314870.91,114032.3,200838.61,0.14,Growth candidate
+High limit,Low utilization,No recent payment or low activity,489,64.0,0.1309,0.2212,0.59,3027877.0,0.002,0.0009,5147.58,0.0228,3720.18,0.0,0.0,226545.06,133798.2,92746.86,0.12,Growth candidate
+Very high limit,Low utilization,Strong recent repayment,349,23.0,0.0659,0.2212,0.3,5783685.0,0.0038,0.0015,26575.57,0.0322,20656.76,0.0,0.0,834738.57,237177.1,597561.47,0.11,Growth candidate
+Low limit,Low utilization,Repeated serious delay,197,133.0,0.6751,0.2212,3.05,483903.0,0.0003,0.0017,3392.31,0.1066,801.79,4.31,4.21,60145.62,259832.0,-199686.38,0.1,Restrict or reduce exposure
+Mid limit,Low utilization,No recent payment or low activity,409,68.0,0.1663,0.2212,0.75,1563061.0,0.001,0.0006,2613.69,0.0345,1618.63,0.0,0.0,96210.09,88970.0,7240.09,0.08,Growth candidate
+Very high limit,Low utilization,Partial recent repayment,170,3.0,0.0176,0.2212,0.08,10228581.0,0.0067,0.0004,60974.99,0.1129,15910.87,0.0,0.0,932917.36,56304.6,876612.76,0.05,Growth candidate
+Low limit,Low utilization,Recent serious delay,102,42.0,0.4118,0.2212,1.86,219167.0,0.0001,0.0005,3642.28,0.0879,1520.32,1.06,1.0,33436.16,73380.6,-39944.44,0.03,Restrict or reduce exposure
+Low limit,Low utilization,Strong recent repayment,245,46.0,0.1878,0.2212,0.85,427802.0,0.0003,0.0006,3566.59,0.0747,2426.45,0.0,0.0,78643.32,89658.3,-11014.98,0.02,Restrict or reduce exposure
+Mid limit,Negative or zero balance,Minor payment delay,673,161.0,0.2392,0.2212,1.08,0.0,0.0,0.0013,2920.6,0.0,1986.75,1.0,0.0,176901.0,201637.9,-24736.9,0.0,Restrict or reduce exposure
+High limit,Negative or zero balance,Minor payment delay,711,199.0,0.2799,0.2212,1.27,0.0,0.0,0.0008,3554.34,0.0,2887.33,1.0,0.0,227442.3,117640.9,109801.4,0.0,Standard monitoring
+High limit,Negative or zero balance,No recent payment or low activity,388,115.0,0.2964,0.2212,1.34,0.0,0.0,0.0003,2595.41,0.0,2431.89,0.0,0.0,90631.85,49676.0,40955.85,0.0,Standard monitoring
+Mid limit,Negative or zero balance,No recent payment or low activity,189,32.0,0.1693,0.2212,0.77,0.0,0.0,0.0001,1452.02,0.0,1150.8,0.0,0.0,24698.9,11789.3,12909.6,0.0,Growth candidate
+High limit,Negative or zero balance,Strong recent repayment,140,9.0,0.0643,0.2212,0.29,0.0,0.0,0.0001,10342.91,0.0,6446.91,0.0,0.0,130320.68,10346.3,119974.38,0.0,Growth candidate
+Low limit,Negative or zero balance,Minor payment delay,112,35.0,0.3125,0.2212,1.41,0.0,0.0,0.0001,1519.66,0.0,1167.58,1.0,0.0,15318.15,10156.6,5161.55,0.0,Standard monitoring

@@ -1,0 +1,2 @@
+check_name,customer_count,distinct_customer_ids,defaulted_customers,non_defaulted_customers,portfolio_default_rate,total_credit_line_exposure,total_current_balance_exposure,total_revenue_proxy_6mo,total_realized_loss_proxy,total_observed_risk_adjusted_profit_proxy,reconciliation_status
+portfolio_reconciliation,30000,30000,6636.0,23364.0,0.2212,5024529680.0,1537381257.0,121468877.78,173169964.3,-51701086.53,PASS

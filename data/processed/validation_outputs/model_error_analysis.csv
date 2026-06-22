@@ -1,0 +1,5 @@
+prediction_outcome_type,customer_count,avg_predicted_default_probability,avg_risk_decile,total_balance_exposure_proxy,total_predicted_expected_loss_proxy,total_actual_loss_proxy,total_predicted_risk_adjusted_profit_proxy,total_actual_risk_adjusted_profit_proxy,customer_share
+False negative: default missed,904,0.105602,7.240044,48748672.666667,2945511.536173,29249203.6,1441869.003827,-24861823.06,0.030133
+False positive: non-default flagged,9251,0.284709,3.472598,298038793.333333,55651465.361919,0.0,-28827973.961919,26823491.4,0.308367
+True negative: non-default approved,14113,0.085182,8.045065,762998797.0,36753755.60205,0.0,31916136.12795,68669891.73,0.470433
+True positive: default flagged,5732,0.47205,2.231333,239867934.5,76039481.261522,143920760.7,-54451367.156522,-122332646.595,0.191067

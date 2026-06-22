@@ -1,0 +1,2 @@
+customer_count,defaulted_customers,non_defaulted_customers,portfolio_default_rate,total_credit_line_exposure,total_current_balance_exposure,avg_credit_limit,avg_current_balance_exposure,avg_utilization,avg_revenue_proxy_6mo,avg_realized_loss_proxy,avg_observed_risk_adjusted_profit_proxy,monitoring_flag_rate
+30000,6636.0,23364.0,0.2212,5024529680.0,1537381257.0,167484.32266666667,51246.0419,0.4239376019684496,4048.9625925000055,5772.332143333347,-1723.3695508333342,0.4126

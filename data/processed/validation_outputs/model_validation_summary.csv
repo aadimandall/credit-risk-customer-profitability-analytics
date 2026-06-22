@@ -1,0 +1,2 @@
+record_count,portfolio_default_rate,avg_predicted_default_probability,calibration_gap,absolute_calibration_gap,brier_score,top_decile_default_rate,bottom_decile_default_rate,top_bottom_default_rate_separation,top_decile_lift_vs_portfolio,total_predicted_expected_loss_proxy,total_actual_loss_proxy,total_predicted_revenue_proxy_6mo,total_predicted_risk_adjusted_profit_proxy,total_actual_risk_adjusted_profit_proxy
+30000,0.2212,0.221242,4.2e-05,4.2e-05,0.122342,0.750333,0.016333,0.734,3.392104,171390213.761664,173169964.3,121468877.775,-49921335.986664,-51701086.525

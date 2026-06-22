@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-06-22 14:45:47",
+  "recommended_threshold": 0.15,
+  "recommended_threshold_label": "Balanced threshold",
+  "portfolio_default_rate": 0.2212,
+  "avg_predicted_default_probability": 0.221242,
+  "calibration_gap": 4.2e-05,
+  "brier_score": 0.122342,
+  "top_decile_lift_vs_portfolio": 3.392104,
+  "output_files": {
+    "validation_summary": "/Users/aadityamandal/Downloads/credit_risk_customer_profitability_analytics/data/processed/validation_outputs/model_validation_summary.csv",
+    "calibration": "/Users/aadityamandal/Downloads/credit_risk_customer_profitability_analytics/data/processed/validation_outputs/calibration_by_probability_band.csv",
+    "risk_decile": "/Users/aadityamandal/Downloads/credit_risk_customer_profitability_analytics/data/processed/validation_outputs/risk_decile_business_summary.csv",
+    "threshold_business": "/Users/aadityamandal/Downloads/credit_risk_customer_profitability_analytics/data/processed/validation_outputs/threshold_business_impact.csv",
+    "segment_monitoring": "/Users/aadityamandal/Downloads/credit_risk_customer_profitability_analytics/data/processed/validation_outputs/segment_model_monitoring.csv",
+    "fairness_monitoring": "/Users/aadityamandal/Downloads/credit_risk_customer_profitability_analytics/data/processed/validation_outputs/fairness_monitoring_summary.csv",
+    "error_analysis": "/Users/aadityamandal/Downloads/credit_risk_customer_profitability_analytics/data/processed/validation_outputs/model_error_analysis.csv",
+    "governance_checklist": "/Users/aadityamandal/Downloads/credit_risk_customer_profitability_analytics/data/processed/validation_outputs/model_governance_checklist.csv",
+    "executive_summary": "/Users/aadityamandal/Downloads/credit_risk_customer_profitability_analytics/data/processed/validation_outputs/_executive_validation_governance_summary.md"
+  }
+}

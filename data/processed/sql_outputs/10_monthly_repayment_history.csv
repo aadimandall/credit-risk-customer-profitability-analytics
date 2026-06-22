@@ -1,0 +1,7 @@
+month_order,statement_month,customer_months,default_rate,avg_repayment_status,payment_delay_rate,serious_delay_rate,avg_positive_bill_amount,avg_payment_amount,avg_payment_to_bill_ratio
+1,April,30000,0.2212,-0.2911,0.1026,0.1026,38942.27,5215.5,1.5363
+2,May,30000,0.2212,-0.2662,0.0989,0.0989,40347.09,4799.39,1.2444
+3,June,30000,0.2212,-0.2207,0.117,0.1169,43299.65,4826.08,1.8523
+4,July,30000,0.2212,-0.1662,0.1404,0.1403,47045.17,5225.68,1.8259
+5,August,30000,0.2212,-0.1338,0.1479,0.147,49206.52,5921.16,1.6643
+6,September,30000,0.2212,-0.0167,0.2273,0.1043,51246.04,5663.58,1.7761
